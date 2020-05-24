@@ -22,3 +22,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 预览：[https://mannyliu99.github.io/anjieyou-website/](https://mannyliu99.github.io/anjieyou-website/)
+预览：[https://mannyliu99.github.io/anjieyou-website/dist/#](https://mannyliu99.github.io/anjieyou-website/dist/#)
